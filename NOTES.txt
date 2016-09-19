@@ -1,0 +1,3 @@
+stack build --file-watch
+stack ghci
+  :reload
