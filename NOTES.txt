@@ -2,3 +2,6 @@ stack build --file-watch
 stack ghci
   :reload
   :m - back to Prelude
+
+example:
+:load src/ch2/test.hs
